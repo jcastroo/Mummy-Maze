@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Authors
 - João Castro ([@jcastroo](https://github.com/jcastroo))
-- Marco Gaspar ([@Sneuc](https://github.com/marco2201708))
+- Marco Gaspar ([@marco2201708](https://github.com/marco2201708))
