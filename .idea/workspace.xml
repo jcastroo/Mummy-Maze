@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a091b84-42a2-4966-937e-8409e68ac26b" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1ObqOLKkVgswHXnjbCcqq6GZ9SZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Anabela\IdeaProjects\Search\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MummyMaze" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="gui.Main" />
+      <module name="untitled104" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a091b84-42a2-4966-937e-8409e68ac26b" name="Default" comment="" />
+      <created>1521195166059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521195166059</updated>
+      <workItem from="1582565107338" duration="11255000" />
+      <workItem from="1583168216627" duration="1607000" />
+      <workItem from="1583183963137" duration="5717000" />
+      <workItem from="1583255433033" duration="1164000" />
+      <workItem from="1614862104320" duration="67000" />
+      <workItem from="1614862729523" duration="2295000" />
+      <workItem from="1646986388376" duration="9176000" />
+      <workItem from="1647590836750" duration="14938000" />
+      <workItem from="1647819564030" duration="137000" />
+      <workItem from="1648195942258" duration="9730000" />
+      <workItem from="1648630342169" duration="54000" />
+      <workItem from="1648796807820" duration="8260000" />
+      <workItem from="1649345273439" duration="1363000" />
+      <workItem from="1649351037120" duration="709000" />
+      <workItem from="1649357429986" duration="668000" />
+      <workItem from="1649606096759" duration="244000" />
+      <workItem from="1649622377638" duration="242000" />
+      <workItem from="1651178650156" duration="888000" />
+      <workItem from="1651184349504" duration="1053000" />
+      <workItem from="1651216345518" duration="4384000" />
+      <workItem from="1651220977982" duration="4256000" />
+      <workItem from="1651225849131" duration="631000" />
+      <workItem from="1651277826312" duration="2231000" />
+      <workItem from="1651327118042" duration="6007000" />
+      <workItem from="1651363490652" duration="43000" />
+      <workItem from="1651418055285" duration="190000" />
+      <workItem from="1651770007583" duration="3450000" />
+      <workItem from="1651774564209" duration="97000" />
+      <workItem from="1651821464908" duration="9517000" />
+      <workItem from="1651840133533" duration="421000" />
+      <workItem from="1652434576462" duration="986000" />
+      <workItem from="1652448123862" duration="225000" />
+      <workItem from="1652547232518" duration="4742000" />
+      <workItem from="1652886204293" duration="866000" />
+      <workItem from="1652891729452" duration="4233000" />
+      <workItem from="1653037692213" duration="6513000" />
+      <workItem from="1653580817655" duration="8285000" />
+      <workItem from="1653642401560" duration="10148000" />
+      <workItem from="1654083739484" duration="14126000" />
+      <workItem from="1654163275053" duration="5024000" />
+      <workItem from="1654187060904" duration="7180000" />
+      <workItem from="1654195680803" duration="3471000" />
+      <workItem from="1654246994960" duration="7999000" />
+      <workItem from="1654337584339" duration="3897000" />
+      <workItem from="1654341594023" duration="168000" />
+      <workItem from="1654341812067" duration="95000" />
+      <workItem from="1654530547057" duration="8079000" />
+      <workItem from="1654540885616" duration="1045000" />
+      <workItem from="1654612043282" duration="3252000" />
+      <workItem from="1654617928805" duration="7000" />
+      <workItem from="1654632359976" duration="37000" />
+      <workItem from="1654770113738" duration="51000" />
+      <workItem from="1654770448921" duration="783000" />
+      <workItem from="1654942526598" duration="157000" />
+      <workItem from="1654943235199" duration="10783000" />
+      <workItem from="1655136770779" duration="1841000" />
+      <workItem from="1655138783498" duration="29000" />
+      <workItem from="1655140682354" duration="1131000" />
+      <workItem from="1655142270325" duration="93000" />
+      <workItem from="1655159094149" duration="1688000" />
+      <workItem from="1655508391158" duration="1658000" />
+      <workItem from="1655601758873" duration="2258000" />
+      <workItem from="1655637403625" duration="3498000" />
+      <workItem from="1655679326799" duration="4728000" />
+      <workItem from="1655766189931" duration="336000" />
+      <workItem from="1655840784546" duration="5525000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/agent/Agent.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchmethods/GraphSearch.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
